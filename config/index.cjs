@@ -8,10 +8,10 @@
 const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: '',
+  APP_ID: 'wx37edf342008c1617',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '',
+  APP_SECRET: '69aa688aeccea8cb79e36f6c4de68748',
 
   PROVINCE: '贵州',
   CITY: '遵义',
@@ -21,7 +21,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '三宝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'oRo3M6Xu8EMrhFVhiOYe1ywVsjbA',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'suawZGa9O17aKVPbZ1HjFglykPTWnNdMKGX-EvqL7UQ',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
